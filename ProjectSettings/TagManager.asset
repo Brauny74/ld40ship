@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Loot
+  - PlayerTurrets
+  - Looter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ship
+  - Projectiles
+  - Enemies
+  - Turret
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3672382815
+    locked: 0
+  - name: Ships
+    uniqueID: 2828757697
+    locked: 0
+  - name: Turrets
+    uniqueID: 1871065075
+    locked: 0
+  - name: Smoke
+    uniqueID: 2586712165
+    locked: 0
